@@ -17,6 +17,8 @@ import android.view.View;
     public class MainActivity extends AppCompatActivity {
 
         private Toolbar toolbar;
+        private Toolbar toolbar2;
+
     private TabLayout tabLayout;
     private ViewPager viewPager;
     private int[] tabIcons = {
